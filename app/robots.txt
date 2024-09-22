@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://comekmuncrat.pages.dev/sitemap.xml
